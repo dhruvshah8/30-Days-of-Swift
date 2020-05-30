@@ -28,5 +28,11 @@ I moved on to creating a quiz app with true or false answers. I learned more abo
 
 ## MultiPage Dynamic Apps
 
+In this week, I wanted to learn how to make apps that are more dynamic with mutliple pages. I started with a BMI Calculator where using UISliders, the user selects their height and weight and their BMI is prested when they click calculate on another view. I then made a Bill Calculation App which calculates how to split a bill with multiple people using a UIStepper. Through these 2 apps I learned how to create apps with multiple view controllers as well as passing data between different views. Furthermore, I learned more about protocals as well as how to implement the MVC Design Pattern. 
+
+# Week 4 
+
+## Networking and REST APIs 
+
 
 
