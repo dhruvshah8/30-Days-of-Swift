@@ -11,7 +11,7 @@ This first week of learning Swift I started with learning the basics of Apple's 
 
 > <a href="https://github.com/dhruvshah8/30-Days-of-Swift/tree/master/_1-I%20Am%20Rich" target="_blank">`I Am Rich`</a> 
 
-> <a href="https://github.com/dhruvshah8/30-Days-of-Swift/tree/master/_2-Dicee" target="_blank">Dicee</a>
+> <a href="https://github.com/dhruvshah8/30-Days-of-Swift/tree/master/_2-Dicee" target="_blank">'Dicee'</a>
 
 # Week 2 
 
@@ -19,7 +19,7 @@ This first week of learning Swift I started with learning the basics of Apple's 
 
 Gaining some profiency in basics of Swift, I started to add more functionlity to my apps through the use of IBOutlets and IBActions. This allowed me to add interactions for the user with the app. I started by adding the functionality to my Dicee App, when the user presses the roll button, two random dice images are displayed on the screen. I was able to implement my knowledge of arrays and loops to make this possible. 
 
-> <a href="https://github.com/dhruvshah8/30-Days-of-Swift/tree/master/_2-Dicee" target="_blank">Dicee</a>
+> <a href="https://github.com/dhruvshah8/30-Days-of-Swift/tree/master/_2-Dicee" target="_blank">'Dicee'</a>
 
 I moved on to creating a quiz app with true or false answers. I learned more about code design, by using the Model View Controller Design Patter to structure my code. Furthermore, I learned about how to make more functional and reusable code through the use of Structs and Classes as well as new data structures like dictionaries. Some difficulties arrised in keeping track of the users score and resseting the score when the game was over. 
 
