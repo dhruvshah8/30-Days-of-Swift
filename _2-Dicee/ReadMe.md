@@ -1,3 +1,3 @@
 ## Dicee 
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+[![](https://raw.githubusercontent.com/dhruvshah8/30-Days-of-Swift/master/_2-Dicee/dicee.gif)]()
