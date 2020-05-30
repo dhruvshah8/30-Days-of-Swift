@@ -19,7 +19,14 @@ Gaining some profiency in basics of Swift, I started to add more functionlity to
 
 > Dicee 
 
-I moved on to creating a quiz app with true or false answers. I learned more about code design, by using the Model View Controller Design Patter to structure my code. Furthermore, 
+I moved on to creating a quiz app with true or false answers. I learned more about code design, by using the Model View Controller Design Patter to structure my code. Furthermore, I learned about how to make more functional and reusable code through the use of Structs and Classes as well as new data structures like dictionaries. Some difficulties arrised in keeping track of the users score and resseting the score when the game was over. 
+
+> Quizler 
+
+
+# Week 3 
+
+## MultiPage Dynamic Apps
 
 
 
