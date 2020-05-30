@@ -1,6 +1,8 @@
 # 30 Days of Swift
 Tracking my 30 day journey in learning Swift and IOS Development
 
+[![](https://raw.githubusercontent.com/dhruvshah8/30-Days-of-Swift/master/_2-Dicee/Documentation/readme-end-banner.png)]()
+
 # Week 1 
 
 ## Basic User Interface 
