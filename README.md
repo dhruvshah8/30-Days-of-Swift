@@ -21,7 +21,10 @@ Gaining some profiency in basics of Swift, I started to add more functionlity to
 
 I moved on to creating a quiz app with true or false answers. I learned more about code design, by using the Model View Controller Design Patter to structure my code. Furthermore, I learned about how to make more functional and reusable code through the use of Structs and Classes as well as new data structures like dictionaries. Some difficulties arrised in keeping track of the users score and resseting the score when the game was over. 
 
+I also learned more about how to interact with the phone's in built audio system through the Xylophone app. 
+
 > Quizler 
+> Xylophone
 
 
 # Week 3 
@@ -29,6 +32,10 @@ I moved on to creating a quiz app with true or false answers. I learned more abo
 ## MultiPage Dynamic Apps
 
 In this week, I wanted to learn how to make apps that are more dynamic with mutliple pages. I started with a BMI Calculator where using UISliders, the user selects their height and weight and their BMI is prested when they click calculate on another view. I then made a Bill Calculation App which calculates how to split a bill with multiple people using a UIStepper. Through these 2 apps I learned how to create apps with multiple view controllers as well as passing data between different views. Furthermore, I learned more about protocals as well as how to implement the MVC Design Pattern. 
+
+> BMI Calculator
+
+> Tipsy
 
 # Week 4 
 
