@@ -48,7 +48,7 @@ This was one of the most challenging but rewarding aspects of learning Swift. I 
 
 > <a href="" target="_blank">`Clima`</a>
 
-> <a href=""_blank">`Byte Coin`</a>
+> <a href="" target="_blank">`Byte Coin`</a>
 
 
 
